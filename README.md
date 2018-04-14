@@ -18,4 +18,7 @@ ZCZC W05
 Week05 Demo: done!
 
 ZCZC W06
-Week05 Demo: done!
+Week07 Demo: done!
+
+ZCZC W07
+Week08 Demo: done!
